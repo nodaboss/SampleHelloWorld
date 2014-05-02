@@ -22,7 +22,7 @@
     
     
     NSString *str;
-    str = @"hello,nexseed.";
+    str = @"hello,world.";
 
     //このように文字を入れることを代入という
     //NSの意味はナンバーステップ、紫はデータ型、赤は文字列、
